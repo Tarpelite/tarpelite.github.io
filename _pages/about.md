@@ -1,15 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tianyu Chen (陈天宇)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Tianyu Chen, a 5th-year PhD student at Beihang University, where I have the privilege to be mentored by professor [Jianxin Li](https://shi.buaa.edu.cn/lijianxin/zh_CN/index.htm) and [Haoyi Zhou](https://www.zhouhaoyi.com/)—renowned experts in their fields. My academic journey began at Beihang University, where I earned my bachelor's degree in 2020, setting the foundation for my pursuit of knowledge.
 
-A data-driven personal website
+During my studies, I had the opportunity to contribute as a research intern at Microsoft Research Asia under the guidance of [Shaohan Huang](https://buaahsh.github.io/), further enriching my experience and skills. Beyond academia, I am also a co-founder of [SeekThought](https://www.seekthought.com/) (backed by YC China in Spring 2022), where we strive to bridge the gap between research and practical applications.
+
+Hightlights
+======
+
+My current focus is on **AI4Science** and **Trustworthy Foundation Models**, two fields that promise to revolutionize scientific discovery. I am actively **seeking postdoctoral positions or full-time research roles in these domains**, eager to contribute my expertise and passion towards advancing our understanding of the universe through artificial intelligence.
+
+Contact Me
+======
+
+If you are interested in exploring opportunities for collaboration or have a position that aligns with my interests and skills, please don't hesitate to reach out. I am excited about new challenges and look forward to contributing to groundbreaking research projects in AI4Science. Let's connect and explore how we can work together!
+
+Feel free to drop me an email at tianyuc[at]buaa[dot]edu[dot]cn.
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -46,4 +60,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
