@@ -1,5 +1,5 @@
 ---
-title: "The-x: Privacy-preserving transformer inference with homomorphic encryption"
+title: "The-X: Privacy-preserving transformer inference with homomorphic encryption"
 collection: publications
 permalink: /publication/THE-X
 excerpt: 'The first work to protect Transformers in HE ways.'
