@@ -1,5 +1,5 @@
 ---
-title: "The-x: Privacy-preserving transformer inference with homomorphic encryption"
+title: "The-X: Privacy-preserving transformer inference with homomorphic encryption"
 collection: publications
 permalink: /publication/THE-X
 date: 2022-05-31
