@@ -16,10 +16,16 @@ Hightlights
 
 My current focus is on **AI4Science** and **Trustworthy Foundation Models**, two fields that promise to revolutionize scientific discovery. I am actively **seeking postdoctoral positions or full-time research roles in these domains**, eager to contribute my expertise and passion towards advancing our understanding of the universe through artificial intelligence.
 
-Contact Me
+News
 ======
 
-If you are interested in exploring opportunities for collaboration or have a position that aligns with my interests and skills, please don't hesitate to reach out. I am excited about new challenges and look forward to contributing to groundbreaking research projects in AI4Science. Let's connect and explore how we can work together!
++ [05/2024] We pre-released the [OmniArch-α foundation model](https://mp.weixin.qq.com/s/NA0Mo83td7cZm8mM8rdZvA) at Huawei KADC
++ [01/2024] We won the [national silver award](https://cy.ncss.cn/information/2c93f4c68a5f8efa018ef54ba77e00fd) at the 9th China 'Internet+' Innovation and Entrepreneurship Competition
++ [12/2020]We won the [first prize](https://www.cndids.com/#/index) at National Industrial Internet APP and Information Consumption Race
+
+
+Contact Me
+======
 
 Feel free to drop me an email at tianyuc[at]buaa[dot]edu[dot]cn.
 

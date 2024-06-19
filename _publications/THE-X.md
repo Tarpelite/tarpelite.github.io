@@ -2,7 +2,6 @@
 title: "The-x: Privacy-preserving transformer inference with homomorphic encryption"
 collection: publications
 permalink: /publication/THE-X
-excerpt: 'The first work to protect Transformers in HE ways.'
 date: 2022-05-31
 venue: 'ACL findings 2022'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
