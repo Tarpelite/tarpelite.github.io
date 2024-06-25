@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tianyu Chen, a 5th-year PhD student at Beihang University, where I have the privilege to be mentored by professor [Jianxin Li](https://shi.buaa.edu.cn/lijianxin/zh_CN/index.htm) and [Haoyi Zhou](https://www.zhouhaoyi.com/)—renowned experts in their fields. My academic journey began at Beihang University, where I earned my bachelor's degree in 2020, setting the foundation for my pursuit of knowledge.
+I am Tianyu Chen, a 5th-year PhD student at Beihang University, where I have the privilege to be mentored by professor [Jianxin Li](https://shi.buaa.edu.cn/lijianxin/zh_CN/index.htm) and [Haoyi Zhou](https://www.zhouhaoyi.com/). My academic journey began at Beihang University, where I earned my bachelor's degree in 2020, setting the foundation for my pursuit of knowledge.
 
 During my studies, I had the opportunity to contribute as a research intern at Microsoft Research Asia under the guidance of [Shaohan Huang](https://buaahsh.github.io/), further enriching my experience and skills. Beyond academia, I am also a co-founder of [SeekThought](https://www.seekthought.com/) (backed by YC China in Spring 2022), where we strive to bridge the gap between research and practical applications.
 
