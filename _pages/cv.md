@@ -64,8 +64,8 @@ redirect_from:
 * Programming Languages: Python, C++
 * Machine Learning Frameworks: PyTorch, TensorFlow, Hugging Face Transformers
 * High-Performance Computing: Experience with distributed training and large-scale model deployment
-* Scientific Computing: Expertise in numerical methods and PDE solving techniques
-* Languages: Fluent in English and Mandarin Chinese (modify as needed)
+* Scientific Computing: Expertise in Neural Operators and PDE solving techniques
+* Languages: Fluent in English and Mandarin Chinese 
 
 ## Awards and Honors
 
