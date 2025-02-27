@@ -18,6 +18,7 @@ My current focus is on **AI4Science** and **Trustworthy Foundation Models**, two
 
 News
 ======
++ [02/2025] **Our Galaxywalker** has been accepted by **CVPR 2025**
 + [07/2024] We won the **finalist** in the Track C of  [IJCAI 2024 Contest: Rapid Aerodynamic Drag Prediction for Arbitrary Vehicles in 3D Space](https://competition.atomgit.com/competitionInfo?id=7f3f276465e9e845fd3a811d2d6925b5) 
 + [05/2024] We pre-released the [OmniArch-α foundation model](https://mp.weixin.qq.com/s/NA0Mo83td7cZm8mM8rdZvA) at Huawei KADC
 + [01/2024] We won the [national silver award](https://cy.ncss.cn/information/2c93f4c68a5f8efa018ef54ba77e00fd) at the 9th China 'Internet+' Innovation and Entrepreneurship Competition
