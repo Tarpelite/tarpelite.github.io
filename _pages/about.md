@@ -30,3 +30,6 @@ Contact Me
 
 Feel free to drop me an email at tianyuc[at]buaa[dot]edu[dot]cn.
 
+Readings
+=======
+1. [Sell Yourself Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
