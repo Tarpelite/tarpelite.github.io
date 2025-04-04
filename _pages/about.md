@@ -33,3 +33,4 @@ Feel free to drop me an email at tianyuc[at]buaa[dot]edu[dot]cn.
 Readings
 =======
 1. [Sell Yourself Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
+2. ['ML Research, via the Lens of ML' by Kaiming He](https://people.csail.mit.edu/kaiming/neurips2024workshop/neurips2024_newinml_kaiming.pdf)
